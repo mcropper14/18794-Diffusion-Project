@@ -4,10 +4,14 @@ create conda env: ``` conda env create -f environment.yaml ```
 
 activate conda env: ``` conda activate ldm ``` 
 
+I can't run any of the pretrained models for inference locally, it just kills the kernel. 
+
+Here is the Notebook:
+
 
 [Notebook](latent_imagenet_diffusion_modified.ipynb)
 
-I modified the orginal notebook from the github to deal with some of the old version imports. 
+I modified the orginal notebook from the github to deal with some of the old version imp
 
 (Should be able to run in colab without error)
 
