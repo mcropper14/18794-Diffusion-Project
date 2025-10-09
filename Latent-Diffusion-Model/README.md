@@ -9,6 +9,8 @@ activate conda env: ``` conda activate ldm ```
 
 I modified the orginal notebook from the github to deal with some of the old version imports. 
 
+(Should be able to run in colab without error)
+
 The notebook:
 
 Demonstrates class-conditional image synthesis using Latent Diffusion Models (LDMs).

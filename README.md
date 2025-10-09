@@ -1,6 +1,9 @@
-Repo for 18994 Project
+Repo for 18994 Project:
 
-Papers: (https://arxiv.org/abs/2112.10752)
+Papers: 
+
+
+Latent Diffusion Model: (https://arxiv.org/abs/2112.10752)
 
 BayesDiff: (https://arxiv.org/abs/2310.11142)
 
