@@ -8,6 +8,7 @@ Latent Diffusion Model: (https://arxiv.org/abs/2112.10752)
 BayesDiff: (https://arxiv.org/abs/2310.11142)
 
 Matryoshka Diffusion Models: (https://openreview.net/forum?id=tOzCcDdH9O)
+Github: (https://github.com/apple/ml-mdm)
 
 Tiny ImageNet: (https://cs231n.stanford.edu/reports/2017/pdfs/930.pdf)
 
