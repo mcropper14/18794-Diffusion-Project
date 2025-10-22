@@ -19,3 +19,7 @@ It has 100,000 images of 200 classes (500 per class), 64x64 colored images, with
 Data loader: (https://image-net.org/download-images.php)
 
 I also created a dataloader in colab: dataloader_notebook.ipynb. I have stored the partial dataset on googledrive at [tiny-imagenet-200] (https://drive.google.com/drive/folders/1yYI9fMnjiYoO_UtnpLyROu---5OFa1eo?usp=drive_link)
+
+Coco dataloader: coco_data_loader_notebook.ipynb
+
+Paper: https://arxiv.org/pdf/1405.0312
